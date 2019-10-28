@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">tugas_3</string>
+    <string name="all_delete">All Delete</string>
+    <string name="database_summary">Total Anggota: %1$d. Total Buku: %2$d</string>
+    <string name="add_new_subject">Add New Subject</string>
+    <string name="student_list">Student List</string>
+    <string name="subject_list">Subject List</string>
+    <string name="empty_list_message">List is Empty!</string>
+    <string name="student_name">Student Name</string>
+    <string name="registration_no">Registration No</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="create_button">Create</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="update">Update</string>
+    <string name="subject_name">Subject Name</string>
+    <string name="subject_code">Subject Code</string>
+    <string name="subject_credit">Subject Credit</string>
+    <string name="update_button">Update</string>
+    <string name="edit_button_description">Edit informasi anggota</string>
+    <string name="cross_image_content_description">Delete anggota from SQLite database</string>
+    <string name="student_information">Student Information</string>
+    <string name="name">Name</string>
+    <string name="registration_no_with_color">Registration Number: </string>
+
+</resources>
